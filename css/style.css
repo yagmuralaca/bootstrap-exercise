@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+    
+
+}
+.body-anasayfa{
+    background-image: url("https://i.hizliresim.com/id2p06b.jpg") ;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    position: absolute;
+    max-width: 100%;
+    height:100%;
+    background-size: cover;
+    font-family:sans-serif;
+    
+}
+
+.navbar.navbar-expand-lg{
+    background-color: #2e2e2e;
+    
+    color: ghostwhite;
+}
+.navbar.navbar-expand-lg a{
+    padding: 15px;
+    color: ghostwhite;
+}
+.navbar.navbar-expand-lg a:hover{
+    color: #c9d4da;
+}
+.container-fluid{
+    background-color: black;
+    opacity: 0.8;
+    max-width: 100%;
+    height:100%;
+    
+}
+.jumbotron{
+   background-color: transparent;
+   padding-top: 4rem;
+   padding-bottom: 0;
+}
+
+.site-aletleri h4{
+    color: #ffff;
+    text-align: center;
+    padding: 10px;
+
+}
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+.jumbotron p{
+    margin-top: 50px;
+}
+a.link{
+    color: #3f419c;
+    text-decoration: none;
+}
+.muzik-aletleri{
+    font-size:20px;
+}
+.muzik-aletleri ul li{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #ffff;
+    background-color: #0f0f0f;
+    border-radius: 5px;
+
+}
+
+.muzik-aletleri ul {
+    padding-left: 0;
+    list-style-type:none;
+
+}
+[role="button"] {
+    display: block;
+    text-align: center;
+    border: none;
+    background-color: #2e2e2e;;
+    margin-bottom: 15px;
+}
+[role="button"]:hover {
+    background-color: #3f419c;
+    border: none;
+
+}
+.hakkimizda.card{
+    border: hidden;
+    overflow: hidden;
+
+}
+.hakkimizda.card-text{
+    padding: 10px;
+}
+.hakkimizda.card h1{
+    margin:20px 0;
+    text-align: center;
+    color: #2e2e2e;
+
+}
+.hakkimizda.card h4{
+    color: #3f419c;
+}
+.urunler.card{
+    margin-top: 40px;
+    border-radius: 0;
+    
+}
+.urunlerimiz{
+    text-align: center;
+    margin-top: 40px;
+    color: #2e2e2e;
+}
+.fiyat{
+    background-color: #5c5c5c;
+    border-color: #5c5c5c;
+}
+
